@@ -62,7 +62,7 @@ a {
     flex-direction: column;
     position: relative;
     background: #e6f0ff;
-    min-height: 100vh;
+    min-height: calc(100vh - 90px);
 }
 
 .navbar {
